@@ -122,10 +122,9 @@ node server.js
 | Polaroid | Simple & nostalgic |
 
 ## Known Gaps / In Progress
-
-- JWT-based auth verification on backend routes (currently trusts `user_id` from request body — planned before demo)
-- Photo count validation (4–50) enforced client-side; server-side check pending
-- Google OAuth provider setup in Supabase dashboard
+- Frontend auth UI (signup/login screens) — in progress
+- Google OAuth provider setup in Supabase dashboard — deferred until email/password auth is working end-to-end
+- Flipbook viewer, PDF export, and creation wizard screens — in progress (frontend)
 
 ## Roadmap (post-hackathon)
 
@@ -136,7 +135,8 @@ node server.js
 
 ## Team
 
-Built by vaidehi shekhawat a frontend: (React/Vite). and  Vanshika nanwani (backend: Node/Express + Supabase + Gemini) with designer partner yashika kumawat 
+Built by **Vanshika Nanwani** (backend: Node/Express + Supabase + Gemini),
+**Vaidehi Shekhawat** (frontend: React/Vite), and **Yashika Kumawat** (design).
 
 ## License
 

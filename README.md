@@ -135,8 +135,7 @@ node server.js
 
 ## Team
 
-Built by **Vanshika Nanwani** (backend: Node/Express + Supabase + Gemini),
-**Vaidehi Shekhawat** (frontend: React/Vite), and **Yashika Kumawat** (design).
+Built by **Vaidehi Shekhawat** (frontend: React/Vite), **Vanshika Nanwani** (backend: Node/Express + Supabase + Gemini), and **Yashika Kumawat** (design).
 
 ## License
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 416" role="img" aria-labelledby="title desc">
+  <title id="title">Wanderly</title>
+  <desc id="desc">Wanderly camera logo with a mountain lens and travel tagline.</desc>
+  <rect width="416" height="416" fill="#f7f2eb"/>
+  <g fill="none" stroke="#572d27" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="10" d="M30 75c20-18 44-6 54 16l39 88c8 18 25 23 39 10l26-25c13-13 9-32-6-40-17-9-32 4-31 23l2 32c1 14 12 20 23 11l35-30c16-14 25-35 30-59l9-39c3-13 13-21 27-21h48c14 0 21 7 25 20l8 29c4 13 15 20 28 20h21c13 0 18 8 18 18 0 7-5 12-13 12h-9"/>
+    <path stroke-width="10" d="M177 75h147"/>
+    <path stroke-width="8" d="M193 104h37"/>
+    <path stroke-width="9" d="M335 139c0 21-2 40-2 59v35c0 20-12 32-32 32H221"/>
+  </g>
+  <circle cx="257" cy="183" r="59" fill="#f7f2eb" stroke="#572d27" stroke-width="9"/>
+  <path d="M211 211l28-30 17 15 17-22 31 37z" fill="#b87943" opacity=".88"/>
+  <path d="M211 211l28-30 17 15 17-22 31 37z" fill="#6d3c2b" opacity=".72" transform="translate(0 10)"/>
+  <path d="M205 249h89" stroke="#572d27" stroke-width="7" stroke-linecap="round"/>
+  <path d="M370 22l5 16 15 5-15 5-5 16-5-16-15-5 15-5zM400 72l3 10 10 3-10 3-3 10-3-10-10-3 10-3z" fill="#b69a67" stroke="none"/>
+  <text x="208" y="315" fill="#572d27" font-family="Georgia, serif" font-size="54" text-anchor="middle">Wanderly</text>
+  <text x="208" y="349" fill="#9b6a52" font-family="Arial, sans-serif" font-size="11" letter-spacing="2.2" text-anchor="middle">TURN YOUR JOURNEY INTO A STORY</text>
+</svg>

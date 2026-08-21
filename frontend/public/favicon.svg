@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#f7f2eb"/>
+  <circle cx="16.5" cy="14" r="6" fill="#f7f2eb" stroke="#572d27" stroke-width="1.4"/>
+  <path d="M11.4 16.6 14.4 13.4 16.2 15 18 12.6 21.4 16.6Z" fill="#b87943"/>
+  <text x="16" y="27" text-anchor="middle" font-size="6" fill="#572d27" font-family="Georgia, serif">W</text>
+</svg>

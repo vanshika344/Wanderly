@@ -35,7 +35,7 @@ Return ONLY valid JSON (no markdown, no backticks) in this exact shape:
 }
 `;
 
-        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+        const model = genAI.getGenerativeModel({ model: "gemini-3.6-flash" });
         const result = await model.generateContent(prompt);
         let aiText = result.response.text();
         aiText = aiText.replace(/```json|```/g, '').trim();

@@ -22,6 +22,7 @@ export async function createCollection(formData) {
     {
       photo_urls: formData.photoUrls,
       format: formData.format,
+      reference_index: formData.referenceIndex,
       raw_content: formData.storyNotes,
       color_theme: formData.colorTheme,
       place: formData.place,

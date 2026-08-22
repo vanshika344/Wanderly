@@ -7,7 +7,12 @@ async function getToken() {
 }
 
 function authHeaders(token) {
-  return { headers: { Authorization: `Bearer ${token}` } }
+  return {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+    },
+  }
 }
 
 export async function createCollection(formData) {

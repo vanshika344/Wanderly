@@ -22,7 +22,7 @@ function Generate({ photos, trip, format, referenceIndex, colorTheme, onBack }) 
       const created = await createCollection({
         photoUrls,
         format,
-        // reference_Index,
+        reference_Index,
         storyNotes: trip.storyNotes,
         colorTheme,
         place: trip.place,
